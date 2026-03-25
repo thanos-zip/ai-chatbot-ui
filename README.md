@@ -1,3 +1,6 @@
+> ⚠️ This repo is a starting point, not a solution. 
+> You will get stuck. That's the point. Google is your best friend.
+
 # AI Chatbot UI
 
 > A clean, fast chat interface connected to a real AI model with conversation memory.
